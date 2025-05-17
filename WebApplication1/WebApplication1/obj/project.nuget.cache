@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qj62AYeGO1Jja6q7DsV9Cc5hOkqBnea8IQZPbFGPCcRv6j0my5hO+URSggwVDUm0qgGclA9JJklS7x0il9W1cA==",
+  "dgSpecHash": "8WPbFzLxD5w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\The user\\Desktop\\לימודים\\תרגילים נוספים\\SSE\\SSE\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\שולחן עבודה\\לימודים\\תרגילים נוספים\\SSE\\SSE\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
